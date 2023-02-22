@@ -7,4 +7,3 @@ cats <- function(love = TRUE) {
   }
   return(print(msg))
 }
-cats() 
